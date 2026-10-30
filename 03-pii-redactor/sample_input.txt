@@ -1,0 +1,3 @@
+Hello, this is Dr. Achieng from the clinic. Please call me on 0712 345 678
+or email achieng.test@example.com. Patient ID No: 12345678 logged in from 192.168.1.10.
+See https://example.com/records for details.
